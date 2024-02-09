@@ -7,7 +7,7 @@
 ```
 2. move into the directory
 ``` 
-   cd lms-frontend-hn
+   cd lms-frontend
 ```
 3. install depemdencies
 ```
